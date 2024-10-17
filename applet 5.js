@@ -94,7 +94,7 @@ class WeatherService extends WeatherApp {
         }
     
     }
-    
+    const apiKey = ''; 
 
 
 
