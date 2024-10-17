@@ -10,6 +10,7 @@ class WeatherApp{
         this.humidity = document.getElementById('humidity');
         this.windSpeed = document.getElementById('windSpeed');
         this.APIKeyInput = document.getElementById('apiInput');
+        this.getWeatherBtn.addEventListener('click', () => this.fetchWeather());
     }
 }
 
