@@ -3,4 +3,5 @@ class WeatherApp{
  this.cityInput = document.getElementById('cityInput'); 
  this.getWeatherBtn = document.getElementById('getWeatherBtn');
  this.getLocationBtn = document.getElementById('getLocationBtn');
- this.weatherCard = document.getElementById('weatherCard');      
+ this.weatherCard = document.getElementById('weatherCard'); 
+ this.cityName = document.getElementById('cityName');
