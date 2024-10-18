@@ -8,3 +8,4 @@ class WeatherApp{
         this.temperature = document.getElementById('temperature');
         this.description = document.getElementById('description');
         this.humidity = document.getElementById('humidity');
+        this.windSpeed = document.getElementById('windSpeed');
