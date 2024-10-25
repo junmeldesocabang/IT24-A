@@ -1,6 +1,8 @@
 body{
-    background-color: aqua;
-}
+    background: url(https://i.pinimg.com/564x/1c/43/f1/1c43f1aaffc73c012c231a89474094df.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+  }
 form{
     margin-top: 3%;
     width: 50%;
